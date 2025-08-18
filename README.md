@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Gabriel
 
-<!--
-**GabrielCarneiro77/GabrielCarneiro77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou dando meus primeiros passos no mundo da programação. Este perfil é meu espaço para aprender, praticar e compartilhar tudo o que estou descobrindo.
 
-Here are some ideas to get you started:
+## 🚀 Objetivos atuais
+- Aprender lógica de programação
+- Estudar HTML, CSS e JavaScript
+- Criar meus primeiros projetos simples
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 O que estou estudando
+- Cursos online (Alura, freeCodeCamp, YouTube)
+- Documentações e tutoriais
+- Projetos pequenos para praticar
+
+## 🛠️ Em breve por aqui
+- Meu primeiro site
+- Um jogo simples em JavaScript
+- Um diário de aprendizado
+
+---
+
+Se você também está começando, vamos aprender juntos!
+
