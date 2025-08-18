@@ -18,6 +18,11 @@ Estou dando meus primeiros passos no mundo da programação eCibersegurança. Es
 - Um jogo simples em JavaScript
 - Um diário de aprendizado
 
+## 🎓 Cursos que concluí
+
+- Santander Academy – Segurança digital para o seu dia a dia
+- Santander Academy – Introdução à IA generativa
+
 ---
 
 Se você também está começando, vamos aprender juntos!
