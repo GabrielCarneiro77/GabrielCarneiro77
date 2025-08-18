@@ -1,11 +1,12 @@
 # 👋 Olá! Eu sou o Gabriel
 
-Estou dando meus primeiros passos no mundo da programação. Este perfil é meu espaço para aprender, praticar e compartilhar tudo o que estou descobrindo.
+Estou dando meus primeiros passos no mundo da programação eCibersegurança. Este perfil é meu espaço para aprender, praticar e compartilhar tudo o que estou descobrindo.
 
 ## 🚀 Objetivos atuais
 - Aprender lógica de programação
 - Estudar HTML, CSS e JavaScript
 - Criar meus primeiros projetos simples
+- Cibersegurança
 
 ## 📚 O que estou estudando
 - Cursos online (Alura, freeCodeCamp, YouTube)
