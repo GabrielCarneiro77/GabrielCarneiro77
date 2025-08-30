@@ -24,6 +24,7 @@ Estou dando meus primeiros passos no mundo da programação eCibersegurança. Es
 - Santander Academy – Introdução à IA generativa
 - Fundação Bradesco - LINGUAGEM DE PROGRAMAÇÃO JAVA - BÁSICO
 - Microsoft Copilot 
+- Cisco - Introdução a Cybersecurity
 
 ---
 
